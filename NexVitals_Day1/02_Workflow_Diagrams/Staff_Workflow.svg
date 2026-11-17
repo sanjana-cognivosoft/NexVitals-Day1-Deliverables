@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1418" viewBox="0 0 1600 1418">
+<rect width="100%" height="100%" fill="#F6F9FB"/>
+<text x="800.0" y="42" text-anchor="middle" font-family="Arial" font-size="29" font-weight="bold" fill="#18324B">NexVitals V1 — Healthcare Staff Workflow</text>
+<rect x="150" y="75" width="1300" height="78" rx="15" fill="#E8F1F8" stroke="#2F6B8A" stroke-width="3"/>
+<text x="800.0" y="105" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">S01 Staff Login</text>
+<text x="800.0" y="130" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Authenticate and resolve Staff role; deny unauthorized access.</text>
+<line x1="800.0" y1="153" x2="800.0" y2="185" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,175 808.0,175 800.0,188" fill="#607D8B"/>
+<rect x="150" y="193" width="1300" height="78" rx="15" fill="#E8F1F8" stroke="#2F6B8A" stroke-width="3"/>
+<text x="800.0" y="223" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Assigned Checkup / Work Queue</text>
+<text x="800.0" y="248" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Open only assigned or otherwise authorized checkups.</text>
+<line x1="800.0" y1="271" x2="800.0" y2="303" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,293 808.0,293 800.0,306" fill="#607D8B"/>
+<rect x="150" y="311" width="1300" height="78" rx="15" fill="#E8F1F8" stroke="#2F6B8A" stroke-width="3"/>
+<text x="800.0" y="341" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Verify Patient and Checkup ID</text>
+<text x="800.0" y="366" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Confirm correct patient-to-checkup association before any measurement.</text>
+<line x1="800.0" y1="389" x2="800.0" y2="421" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,411 808.0,411 800.0,424" fill="#607D8B"/>
+<rect x="150" y="429" width="1300" height="78" rx="15" fill="#FFF2DF" stroke="#C58A35" stroke-width="3"/>
+<text x="800.0" y="459" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Check Device / Test Availability</text>
+<text x="800.0" y="484" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">If unavailable, block affected test, show reason and report/escalate status.</text>
+<line x1="800.0" y1="507" x2="800.0" y2="539" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,529 808.0,529 800.0,542" fill="#607D8B"/>
+<rect x="150" y="547" width="1300" height="78" rx="15" fill="#E8F1F8" stroke="#2F6B8A" stroke-width="3"/>
+<text x="800.0" y="577" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Show Test Instructions</text>
+<text x="800.0" y="602" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Follow approved OEM instructions; healthcare staff assists measurement.</text>
+<line x1="800.0" y1="625" x2="800.0" y2="657" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,647 808.0,647 800.0,660" fill="#607D8B"/>
+<rect x="150" y="665" width="1300" height="78" rx="15" fill="#E8F1F8" stroke="#2F6B8A" stroke-width="3"/>
+<text x="800.0" y="695" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Capture Reading</text>
+<text x="800.0" y="720" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Receive OEM data or enter manually as authorized staff; manual entry must be marked.</text>
+<line x1="800.0" y1="743" x2="800.0" y2="775" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,765 808.0,765 800.0,778" fill="#607D8B"/>
+<rect x="150" y="783" width="1300" height="78" rx="15" fill="#E8F1F8" stroke="#2F6B8A" stroke-width="3"/>
+<text x="800.0" y="813" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Validate Reading and Duplicate Check</text>
+<text x="800.0" y="838" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Check required fields, units and approved plausibility rules; detect duplicate submissions.</text>
+<line x1="800.0" y1="861" x2="800.0" y2="893" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,883 808.0,883 800.0,896" fill="#607D8B"/>
+<rect x="150" y="901" width="1300" height="78" rx="15" fill="#FFF2DF" stroke="#C58A35" stroke-width="3"/>
+<text x="800.0" y="931" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Failure / Missing / Implausible Reading</text>
+<text x="800.0" y="956" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Retake where appropriate, or record failed/skipped/incomplete with reason; do not silently overwrite.</text>
+<line x1="800.0" y1="979" x2="800.0" y2="1011" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,1001 808.0,1001 800.0,1014" fill="#607D8B"/>
+<rect x="150" y="1019" width="1300" height="78" rx="15" fill="#E8F1F8" stroke="#2F6B8A" stroke-width="3"/>
+<text x="800.0" y="1049" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Save with Traceability</text>
+<text x="800.0" y="1074" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Store patient, checkup, reading, unit, timestamp, source, device and staff/verifier metadata.</text>
+<line x1="800.0" y1="1097" x2="800.0" y2="1129" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,1119 808.0,1119 800.0,1132" fill="#607D8B"/>
+<rect x="150" y="1137" width="1300" height="78" rx="15" fill="#E7F3F1" stroke="#238C8C" stroke-width="3"/>
+<text x="800.0" y="1167" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Review and Confirm</text>
+<text x="800.0" y="1192" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Review all captured readings; corrections preserve original and audit history.</text>
+<line x1="800.0" y1="1215" x2="800.0" y2="1247" stroke="#607D8B" stroke-width="3"/>
+<polygon points="792.0,1237 808.0,1237 800.0,1250" fill="#607D8B"/>
+<rect x="150" y="1255" width="1300" height="78" rx="15" fill="#E7F3F1" stroke="#238C8C" stroke-width="3"/>
+<text x="800.0" y="1285" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#18324B">Report / Checkup Status</text>
+<text x="800.0" y="1310" text-anchor="middle" font-family="Arial" font-size="15" fill="#435766">Generate screening report through approved workflow; retain incomplete status when tests remain incomplete.</text>
+</svg>
